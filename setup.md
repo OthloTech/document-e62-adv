@@ -189,6 +189,6 @@ WebStormのメリットはこちら
 
 
 ## 参考
-Duration: 00:00:00
+Duration: 00:01:00
 
 [Firebase CLI リファレンス - Firebase](https://firebase.google.com/docs/cli?hl=ja)
